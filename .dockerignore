@@ -1,0 +1,27 @@
+# Node.js artifacts
+node_modules
+npm-debug.log
+.env
+*.log
+
+# Git artifacts
+.git
+.gitignore
+.gitattributes
+
+# Editor/IDE clutter
+.vscode
+.idea
+*.swp
+
+# Test and docs (if not needed in prod)
+test/
+docs/
+
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/

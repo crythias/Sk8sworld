@@ -1,7 +1,7 @@
 {
   "name": "sk8sworld",
   "version": "1.0.0",
-  "description": "Node.js skeleton for sk8sworld",
+  "description": "sk8sworld is a simple learning platform to have a sample program for docker, then Kubernetes.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
